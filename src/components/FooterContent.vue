@@ -25,7 +25,7 @@
         <a href="/about"
           class="my-auto leading-loose hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-300">About
           us</a>
-        <a href="/contact" class="hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-300">Contact
+        <a href="/contact-us" class="hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-300">Contact
           us</a>
         <a href="/privacy"
           class="basis-auto hover:text-blue-300 focus:outline-none focus:ring-2 focus:ring-blue-300">Privacy Policy</a>
